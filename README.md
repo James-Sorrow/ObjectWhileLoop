@@ -1,4 +1,4 @@
 # ObjectWhileLoop
-Object Oriented While Loops 
+Homepage for Object Oriented While Loops 
 
 installation= `pip install WhileObjects`
