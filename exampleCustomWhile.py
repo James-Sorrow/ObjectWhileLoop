@@ -14,7 +14,7 @@ class customLoop(While):
                 self.i -= self.increment            
         return self.i
 
-
+#Instantiating the custom loop and getting finished calculation
 loop = customLoop(i=0,end=10)
 while not loop.isFinished():
     loop.step()
