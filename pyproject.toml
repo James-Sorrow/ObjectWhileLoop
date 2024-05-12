@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "loop-objects"
+version = "0.1.0"
+description = "Loop objects for python"
+authors = ["James Sadler"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
